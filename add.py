@@ -7,3 +7,5 @@ print(number2)
 number3=200
 print(number3)
 print('what a fucking day")
+pritn(mac_try)
+
