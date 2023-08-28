@@ -1,0 +1,38 @@
+snumbersj100
+print(number)
+number1=200
+number=2
+print(number2)
+print(number1）
+print(number1）
+print(number1）
+print(number1）
+print(number1）
+print(number1）
+number3=200
+print(number3)
+print('what a fucking day")
+pritn(mac_try)
+print("what a fucking day")
+pritn(mac_try)
+pritn(mac_try)
+umberce=500
+umberce=500
+umberce=500
+umberce=500
+umberce=500
+umberce=500
+umberce=500
+umberce=500
+umberce=500
+umberce=500
+    umberce=500
+umberce=500
+README.md
+add.py
+code.txt
+gittry511/
+my_math.py
+pay.py
+tex_try.tex
+try_git/

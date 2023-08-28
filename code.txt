@@ -1,0 +1,19 @@
+this is a git test 
+using namespace std
+thisi is a try
+int main(){
+cout<<"which is read";
+}
+save the version 
+
+show the pig
+
+int a =b b=c
+import tensorflow as tf
+import torch as t
+int a =b inc c=d
+int vod():
+{int a =v;
+int b = d;}
+install of what
+string str={"this is a code of then"}
